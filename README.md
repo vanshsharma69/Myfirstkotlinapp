@@ -1,8 +1,8 @@
 ## Hii 👋 We are Nikhil Chauhan and Vansh Sharma
 
-- 🔭 We are currently working on **YuvaPrabha**
-- 🌱 We are currently learning **Machine Learning**
-- 📫 How to reach us **edencorporation@gmail.com**
+- 🔭 We are currently working on *YuvaPrabha*
+- 🌱 We are currently learning *Machine Learning*
+- 📫 How to reach us *edencorporation@gmail.com*
 
 
 # YuvaPrabha
@@ -29,6 +29,12 @@ Install the Yuvaprabha App by click on this 🔗link : (Link) and Download it an
 ## Feature
 - 🤖*AI Career Guidance*: Get personalized career advice through AI support.
 
+- 📱*UI Feature*: Dark Mode and Light Mode Feature
+
+- 🎯*Career Roadmaps*: Roadmaps Availabe to Learn New Skills.
+
+- 📝*Help in Resume building*: YuvaPrabha will help in building Resume.
+
 - 📃*Job and Internship Opportunities*: Access a curated list of opportunities through collaborations with startups.
 
 - 💻*User-Friendly Interface*: Enjoy a clean and intuitive UI tailored for students and learners.
@@ -43,13 +49,13 @@ Install the Yuvaprabha App by click on this 🔗link : (Link) and Download it an
 
 ## Future Plans
 
-1. *Skill Development Resources*: Add curated learning materials and courses to help users enhance their skills.
+1. 🛠*Skill Development Resources*: Add curated learning materials and courses to help users enhance their skills.
 
-2. *Mentorship Programs*: Connect users with experienced mentors for guidance.
+2. 👩🏻‍💼*Mentorship Programs*: Connect users with experienced mentors for guidance.
 
-3. *Networking Features*: Introduce forums and groups for students to connect and collaborate.
+3. 🌐*Networking Features*: Introduce forums and groups for students to connect and collaborate.
 
-4. *Analytics Dashboard*: Provide insights into user progress and achievements.
+4. 📊*Analytics Dashboard*: Provide insights into user progress and achievements.
 
 
 
